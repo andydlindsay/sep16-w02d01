@@ -1,43 +1,10 @@
 # W02D01 - TDD with Mocha & Chai
 
 ### To Do
-- [ ] Practicing unit testing via TDD methodology
-- [ ] Using the Mocha BDD test framework
-- [ ] Using the Chai assertion library
-- [ ] Creating and consuming modules using Node's default syntax
-
-### What is TDD?
-- Test Driven Development
-- That tests are written before the code is written
-- n-Driven Development
-- Behaviour Driven Development (BDD) from a user's perspective
-
-### Mocha
-- Testing framework
-- `node myfile.js`
-- `mocha mytestfile.js`
-- By default, it looks in the `test` directory
-
-### Chai
-- An assertion library
-- Alternative to Node's built-in assertion library
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [x] Practicing unit testing via TDD methodology
+- [x] Using the Mocha BDD test framework
+- [x] Using the Chai assertion library
+- [x] Creating and consuming modules using Node's default syntax
 
 ### TDD
 - **T**est **D**riven **D**evelopment
